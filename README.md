@@ -1,4 +1,4 @@
-<h1>Hi, I'm Oscar Zacarias! <br/><a href="https://github.com/OscarZacarias/OscarZacarias">Computer Information Systems student.  </a><h2>
+<h1>Hi, I'm Oscar Zacarias! <br/><a href="https://github.com/OscarZacarias/OscarZacarias"> IT/Helpdesk Technician.  </a><h2>
 🖥️🖱️Computer Information Projects:</h2>
 
 - <b>Java</b>
